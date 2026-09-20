@@ -5,3 +5,4 @@
 |03.| 18/09 | Valid Anagram| Arrays | Easy | ✅ Solved | 10 min |
 |04.| 20/09 | Best Time to Buy and Sell Stock | Arrays | Easy-Medium | ✅ Solved | 15 min |
 |05.| 20/09 | Longest Common Prefix | Arrays | Easy-Medium | ✅ Solved | 10 min |
+|06.| 20/09 | Binary Search | Basic Algoriyhms | Easy-Medium | ✅ Solved | 12 min |
