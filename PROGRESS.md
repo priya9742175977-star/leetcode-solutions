@@ -7,3 +7,4 @@
 |05.| 20/09 | Longest Common Prefix | Arrays | Easy-Medium | ✅ Solved | 10 min |
 |06.| 20/09 | Binary Search | Basic Algoriyhms | Easy-Medium | ✅ Solved | 12 min |
 | 07. | 23/09 | Move Zeroes | Basic Algorithms | Easy-Medium | ✅ Solved | 10 min |
+| 08. | 23/09 | Valid Prantheses | Stacks| Easy-Medium | ✅ Solved | 10 min |
