@@ -8,3 +8,4 @@
 |06.| 20/09 | Binary Search | Basic Algoriyhms | Easy-Medium | ✅ Solved | 12 min |
 | 07. | 23/09 | Move Zeroes | Basic Algorithms | Easy-Medium | ✅ Solved | 10 min |
 | 08. | 23/09 | Valid Parentheses | Stacks| Easy-Medium | ✅ Solved | 10 min |
+
