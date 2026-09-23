@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/priyankac/leetcode-solutions/stacks/01-valid-parentheses'
+relocations:     []
+...
