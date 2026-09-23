@@ -1,0 +1,12 @@
+## Problem: Binary Search (Easy-Medium)
+*Link:* https://leetcode.com/problems/binary-search/
+
+### Approach
+Maintain a search range [left, right]. Repeatedly check the middle element: if it matches the target, return its index; if it's smaller, search the right half; if larger, search the left half. Stop when the range is empty.
+
+### Complexity
+•⁠  ⁠Time: O(log n)
+•⁠  ⁠Space: O(1)
+
+### Notes
+Requires the input array to already be sorted, which this problem guarantees.
